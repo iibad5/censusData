@@ -1,0 +1,301 @@
+Regions Code,Regions,Method Code,Method used to travel to workplace,Age Code,Age Range,Observation
+E12000001,North East,1,Work mainly at or from home,1,Aged 16 to 24 years,5229
+E12000001,North East,1,Work mainly at or from home,2,Aged 25 to 34 years,12842
+E12000001,North East,1,Work mainly at or from home,3,Aged 35 to 49 years,35668
+E12000001,North East,1,Work mainly at or from home,4,Aged 50 to 64 years,32961
+E12000001,North East,1,Work mainly at or from home,5,Aged 65 years and over,5632
+E12000001,North East,2,Train underground metro light rail tram bus minibus or coach,1,Aged 16 to 24 years,33443
+E12000001,North East,2,Train underground metro light rail tram bus minibus or coach,2,Aged 25 to 34 years,32834
+E12000001,North East,2,Train underground metro light rail tram bus minibus or coach,3,Aged 35 to 49 years,40893
+E12000001,North East,2,Train underground metro light rail tram bus minibus or coach,4,Aged 50 to 64 years,32214
+E12000001,North East,2,Train underground metro light rail tram bus minibus or coach,5,Aged 65 years and over,2315
+E12000001,North East,3,Driving a car or van,1,Aged 16 to 24 years,63058
+E12000001,North East,3,Driving a car or van,2,Aged 25 to 34 years,140080
+E12000001,North East,3,Driving a car or van,3,Aged 35 to 49 years,267591
+E12000001,North East,3,Driving a car or van,4,Aged 50 to 64 years,181649
+E12000001,North East,3,Driving a car or van,5,Aged 65 years and over,11612
+E12000001,North East,4,Bicycle,1,Aged 16 to 24 years,2541
+E12000001,North East,4,Bicycle,2,Aged 25 to 34 years,4433
+E12000001,North East,4,Bicycle,3,Aged 35 to 49 years,8312
+E12000001,North East,4,Bicycle,4,Aged 50 to 64 years,4167
+E12000001,North East,4,Bicycle,5,Aged 65 years and over,184
+E12000001,North East,5,On foot,1,Aged 16 to 24 years,22641
+E12000001,North East,5,On foot,2,Aged 25 to 34 years,21667
+E12000001,North East,5,On foot,3,Aged 35 to 49 years,35879
+E12000001,North East,5,On foot,4,Aged 50 to 64 years,28706
+E12000001,North East,5,On foot,5,Aged 65 years and over,2229
+E12000001,North East,6,All other methods of travel,1,Aged 16 to 24 years,21988
+E12000001,North East,6,All other methods of travel,2,Aged 25 to 34 years,20302
+E12000001,North East,6,All other methods of travel,3,Aged 35 to 49 years,27936
+E12000001,North East,6,All other methods of travel,4,Aged 50 to 64 years,23282
+E12000001,North East,6,All other methods of travel,5,Aged 65 years and over,1729
+E12000002,North West,1,Work mainly at or from home,1,Aged 16 to 24 years,15645
+E12000002,North West,1,Work mainly at or from home,2,Aged 25 to 34 years,41153
+E12000002,North West,1,Work mainly at or from home,3,Aged 35 to 49 years,114242
+E12000002,North West,1,Work mainly at or from home,4,Aged 50 to 64 years,100145
+E12000002,North West,1,Work mainly at or from home,5,Aged 65 years and over,19796
+E12000002,North West,2,Train underground metro light rail tram bus minibus or coach,1,Aged 16 to 24 years,93175
+E12000002,North West,2,Train underground metro light rail tram bus minibus or coach,2,Aged 25 to 34 years,96639
+E12000002,North West,2,Train underground metro light rail tram bus minibus or coach,3,Aged 35 to 49 years,101802
+E12000002,North West,2,Train underground metro light rail tram bus minibus or coach,4,Aged 50 to 64 years,70428
+E12000002,North West,2,Train underground metro light rail tram bus minibus or coach,5,Aged 65 years and over,6632
+E12000002,North West,3,Driving a car or van,1,Aged 16 to 24 years,169991
+E12000002,North West,3,Driving a car or van,2,Aged 25 to 34 years,409944
+E12000002,North West,3,Driving a car or van,3,Aged 35 to 49 years,782343
+E12000002,North West,3,Driving a car or van,4,Aged 50 to 64 years,517740
+E12000002,North West,3,Driving a car or van,5,Aged 65 years and over,43865
+E12000002,North West,4,Bicycle,1,Aged 16 to 24 years,9359
+E12000002,North West,4,Bicycle,2,Aged 25 to 34 years,16221
+E12000002,North West,4,Bicycle,3,Aged 35 to 49 years,27673
+E12000002,North West,4,Bicycle,4,Aged 50 to 64 years,14557
+E12000002,North West,4,Bicycle,5,Aged 65 years and over,1013
+E12000002,North West,5,On foot,1,Aged 16 to 24 years,73780
+E12000002,North West,5,On foot,2,Aged 25 to 34 years,72719
+E12000002,North West,5,On foot,3,Aged 35 to 49 years,97513
+E12000002,North West,5,On foot,4,Aged 50 to 64 years,72033
+E12000002,North West,5,On foot,5,Aged 65 years and over,7349
+E12000002,North West,6,All other methods of travel,1,Aged 16 to 24 years,68379
+E12000002,North West,6,All other methods of travel,2,Aged 25 to 34 years,53656
+E12000002,North West,6,All other methods of travel,3,Aged 35 to 49 years,67835
+E12000002,North West,6,All other methods of travel,4,Aged 50 to 64 years,53423
+E12000002,North West,6,All other methods of travel,5,Aged 65 years and over,5651
+E12000003,Yorkshire and The Humber,1,Work mainly at or from home,1,Aged 16 to 24 years,12722
+E12000003,Yorkshire and The Humber,1,Work mainly at or from home,2,Aged 25 to 34 years,31554
+E12000003,Yorkshire and The Humber,1,Work mainly at or from home,3,Aged 35 to 49 years,87069
+E12000003,Yorkshire and The Humber,1,Work mainly at or from home,4,Aged 50 to 64 years,78280
+E12000003,Yorkshire and The Humber,1,Work mainly at or from home,5,Aged 65 years and over,15177
+E12000003,Yorkshire and The Humber,2,Train underground metro light rail tram bus minibus or coach,1,Aged 16 to 24 years,65269
+E12000003,Yorkshire and The Humber,2,Train underground metro light rail tram bus minibus or coach,2,Aged 25 to 34 years,65274
+E12000003,Yorkshire and The Humber,2,Train underground metro light rail tram bus minibus or coach,3,Aged 35 to 49 years,76714
+E12000003,Yorkshire and The Humber,2,Train underground metro light rail tram bus minibus or coach,4,Aged 50 to 64 years,54712
+E12000003,Yorkshire and The Humber,2,Train underground metro light rail tram bus minibus or coach,5,Aged 65 years and over,4639
+E12000003,Yorkshire and The Humber,3,Driving a car or van,1,Aged 16 to 24 years,130510
+E12000003,Yorkshire and The Humber,3,Driving a car or van,2,Aged 25 to 34 years,297941
+E12000003,Yorkshire and The Humber,3,Driving a car or van,3,Aged 35 to 49 years,570919
+E12000003,Yorkshire and The Humber,3,Driving a car or van,4,Aged 50 to 64 years,381902
+E12000003,Yorkshire and The Humber,3,Driving a car or van,5,Aged 65 years and over,31072
+E12000003,Yorkshire and The Humber,4,Bicycle,1,Aged 16 to 24 years,8228
+E12000003,Yorkshire and The Humber,4,Bicycle,2,Aged 25 to 34 years,13347
+E12000003,Yorkshire and The Humber,4,Bicycle,3,Aged 35 to 49 years,24300
+E12000003,Yorkshire and The Humber,4,Bicycle,4,Aged 50 to 64 years,13617
+E12000003,Yorkshire and The Humber,4,Bicycle,5,Aged 65 years and over,835
+E12000003,Yorkshire and The Humber,5,On foot,1,Aged 16 to 24 years,60936
+E12000003,Yorkshire and The Humber,5,On foot,2,Aged 25 to 34 years,59420
+E12000003,Yorkshire and The Humber,5,On foot,3,Aged 35 to 49 years,79430
+E12000003,Yorkshire and The Humber,5,On foot,4,Aged 50 to 64 years,56791
+E12000003,Yorkshire and The Humber,5,On foot,5,Aged 65 years and over,5329
+E12000003,Yorkshire and The Humber,6,All other methods of travel,1,Aged 16 to 24 years,51523
+E12000003,Yorkshire and The Humber,6,All other methods of travel,2,Aged 25 to 34 years,42868
+E12000003,Yorkshire and The Humber,6,All other methods of travel,3,Aged 35 to 49 years,52664
+E12000003,Yorkshire and The Humber,6,All other methods of travel,4,Aged 50 to 64 years,40854
+E12000003,Yorkshire and The Humber,6,All other methods of travel,5,Aged 65 years and over,3878
+E12000004,East Midlands,1,Work mainly at or from home,1,Aged 16 to 24 years,10830
+E12000004,East Midlands,1,Work mainly at or from home,2,Aged 25 to 34 years,28016
+E12000004,East Midlands,1,Work mainly at or from home,3,Aged 35 to 49 years,84486
+E12000004,East Midlands,1,Work mainly at or from home,4,Aged 50 to 64 years,76595
+E12000004,East Midlands,1,Work mainly at or from home,5,Aged 65 years and over,15846
+E12000004,East Midlands,2,Train underground metro light rail tram bus minibus or coach,1,Aged 16 to 24 years,37427
+E12000004,East Midlands,2,Train underground metro light rail tram bus minibus or coach,2,Aged 25 to 34 years,35589
+E12000004,East Midlands,2,Train underground metro light rail tram bus minibus or coach,3,Aged 35 to 49 years,41315
+E12000004,East Midlands,2,Train underground metro light rail tram bus minibus or coach,4,Aged 50 to 64 years,31945
+E12000004,East Midlands,2,Train underground metro light rail tram bus minibus or coach,5,Aged 65 years and over,3184
+E12000004,East Midlands,3,Driving a car or van,1,Aged 16 to 24 years,118756
+E12000004,East Midlands,3,Driving a car or van,2,Aged 25 to 34 years,261243
+E12000004,East Midlands,3,Driving a car or van,3,Aged 35 to 49 years,509601
+E12000004,East Midlands,3,Driving a car or van,4,Aged 50 to 64 years,347725
+E12000004,East Midlands,3,Driving a car or van,5,Aged 65 years and over,30503
+E12000004,East Midlands,4,Bicycle,1,Aged 16 to 24 years,8141
+E12000004,East Midlands,4,Bicycle,2,Aged 25 to 34 years,12557
+E12000004,East Midlands,4,Bicycle,3,Aged 35 to 49 years,22158
+E12000004,East Midlands,4,Bicycle,4,Aged 50 to 64 years,13181
+E12000004,East Midlands,4,Bicycle,5,Aged 65 years and over,932
+E12000004,East Midlands,5,On foot,1,Aged 16 to 24 years,50296
+E12000004,East Midlands,5,On foot,2,Aged 25 to 34 years,45216
+E12000004,East Midlands,5,On foot,3,Aged 35 to 49 years,64449
+E12000004,East Midlands,5,On foot,4,Aged 50 to 64 years,48276
+E12000004,East Midlands,5,On foot,5,Aged 65 years and over,4744
+E12000004,East Midlands,6,All other methods of travel,1,Aged 16 to 24 years,43801
+E12000004,East Midlands,6,All other methods of travel,2,Aged 25 to 34 years,34070
+E12000004,East Midlands,6,All other methods of travel,3,Aged 35 to 49 years,40648
+E12000004,East Midlands,6,All other methods of travel,4,Aged 50 to 64 years,32597
+E12000004,East Midlands,6,All other methods of travel,5,Aged 65 years and over,3519
+E12000005,West Midlands,1,Work mainly at or from home,1,Aged 16 to 24 years,13385
+E12000005,West Midlands,1,Work mainly at or from home,2,Aged 25 to 34 years,33544
+E12000005,West Midlands,1,Work mainly at or from home,3,Aged 35 to 49 years,94400
+E12000005,West Midlands,1,Work mainly at or from home,4,Aged 50 to 64 years,85253
+E12000005,West Midlands,1,Work mainly at or from home,5,Aged 65 years and over,19428
+E12000005,West Midlands,2,Train underground metro light rail tram bus minibus or coach,1,Aged 16 to 24 years,58620
+E12000005,West Midlands,2,Train underground metro light rail tram bus minibus or coach,2,Aged 25 to 34 years,65877
+E12000005,West Midlands,2,Train underground metro light rail tram bus minibus or coach,3,Aged 35 to 49 years,74730
+E12000005,West Midlands,2,Train underground metro light rail tram bus minibus or coach,4,Aged 50 to 64 years,50800
+E12000005,West Midlands,2,Train underground metro light rail tram bus minibus or coach,5,Aged 65 years and over,5045
+E12000005,West Midlands,3,Driving a car or van,1,Aged 16 to 24 years,142520
+E12000005,West Midlands,3,Driving a car or van,2,Aged 25 to 34 years,325883
+E12000005,West Midlands,3,Driving a car or van,3,Aged 35 to 49 years,625032
+E12000005,West Midlands,3,Driving a car or van,4,Aged 50 to 64 years,418360
+E12000005,West Midlands,3,Driving a car or van,5,Aged 65 years and over,41059
+E12000005,West Midlands,4,Bicycle,1,Aged 16 to 24 years,6705
+E12000005,West Midlands,4,Bicycle,2,Aged 25 to 34 years,11330
+E12000005,West Midlands,4,Bicycle,3,Aged 35 to 49 years,19590
+E12000005,West Midlands,4,Bicycle,4,Aged 50 to 64 years,10664
+E12000005,West Midlands,4,Bicycle,5,Aged 65 years and over,819
+E12000005,West Midlands,5,On foot,1,Aged 16 to 24 years,50907
+E12000005,West Midlands,5,On foot,2,Aged 25 to 34 years,48895
+E12000005,West Midlands,5,On foot,3,Aged 35 to 49 years,69008
+E12000005,West Midlands,5,On foot,4,Aged 50 to 64 years,52279
+E12000005,West Midlands,5,On foot,5,Aged 65 years and over,5926
+E12000005,West Midlands,6,All other methods of travel,1,Aged 16 to 24 years,51259
+E12000005,West Midlands,6,All other methods of travel,2,Aged 25 to 34 years,41503
+E12000005,West Midlands,6,All other methods of travel,3,Aged 35 to 49 years,49378
+E12000005,West Midlands,6,All other methods of travel,4,Aged 50 to 64 years,38893
+E12000005,West Midlands,6,All other methods of travel,5,Aged 65 years and over,4656
+E12000006,East,1,Work mainly at or from home,1,Aged 16 to 24 years,14835
+E12000006,East,1,Work mainly at or from home,2,Aged 25 to 34 years,38993
+E12000006,East,1,Work mainly at or from home,3,Aged 35 to 49 years,116386
+E12000006,East,1,Work mainly at or from home,4,Aged 50 to 64 years,109426
+E12000006,East,1,Work mainly at or from home,5,Aged 65 years and over,25249
+E12000006,East,2,Train underground metro light rail tram bus minibus or coach,1,Aged 16 to 24 years,45177
+E12000006,East,2,Train underground metro light rail tram bus minibus or coach,2,Aged 25 to 34 years,47117
+E12000006,East,2,Train underground metro light rail tram bus minibus or coach,3,Aged 35 to 49 years,51705
+E12000006,East,2,Train underground metro light rail tram bus minibus or coach,4,Aged 50 to 64 years,35330
+E12000006,East,2,Train underground metro light rail tram bus minibus or coach,5,Aged 65 years and over,4490
+E12000006,East,3,Driving a car or van,1,Aged 16 to 24 years,160006
+E12000006,East,3,Driving a car or van,2,Aged 25 to 34 years,332632
+E12000006,East,3,Driving a car or van,3,Aged 35 to 49 years,630824
+E12000006,East,3,Driving a car or van,4,Aged 50 to 64 years,455602
+E12000006,East,3,Driving a car or van,5,Aged 65 years and over,48080
+E12000006,East,4,Bicycle,1,Aged 16 to 24 years,13788
+E12000006,East,4,Bicycle,2,Aged 25 to 34 years,23508
+E12000006,East,4,Bicycle,3,Aged 35 to 49 years,34971
+E12000006,East,4,Bicycle,4,Aged 50 to 64 years,22675
+E12000006,East,4,Bicycle,5,Aged 65 years and over,2212
+E12000006,East,5,On foot,1,Aged 16 to 24 years,60118
+E12000006,East,5,On foot,2,Aged 25 to 34 years,58740
+E12000006,East,5,On foot,3,Aged 35 to 49 years,76514
+E12000006,East,5,On foot,4,Aged 50 to 64 years,56035
+E12000006,East,5,On foot,5,Aged 65 years and over,6744
+E12000006,East,6,All other methods of travel,1,Aged 16 to 24 years,55484
+E12000006,East,6,All other methods of travel,2,Aged 25 to 34 years,37930
+E12000006,East,6,All other methods of travel,3,Aged 35 to 49 years,44581
+E12000006,East,6,All other methods of travel,4,Aged 50 to 64 years,36510
+E12000006,East,6,All other methods of travel,5,Aged 65 years and over,5173
+E12000007,London,1,Work mainly at or from home,1,Aged 16 to 24 years,19476
+E12000007,London,1,Work mainly at or from home,2,Aged 25 to 34 years,84742
+E12000007,London,1,Work mainly at or from home,3,Aged 35 to 49 years,148852
+E12000007,London,1,Work mainly at or from home,4,Aged 50 to 64 years,104763
+E12000007,London,1,Work mainly at or from home,5,Aged 65 years and over,22830
+E12000007,London,2,Train underground metro light rail tram bus minibus or coach,1,Aged 16 to 24 years,281911
+E12000007,London,2,Train underground metro light rail tram bus minibus or coach,2,Aged 25 to 34 years,828383
+E12000007,London,2,Train underground metro light rail tram bus minibus or coach,3,Aged 35 to 49 years,779209
+E12000007,London,2,Train underground metro light rail tram bus minibus or coach,4,Aged 50 to 64 years,345807
+E12000007,London,2,Train underground metro light rail tram bus minibus or coach,5,Aged 65 years and over,32123
+E12000007,London,3,Driving a car or van,1,Aged 16 to 24 years,82004
+E12000007,London,3,Driving a car or van,2,Aged 25 to 34 years,262038
+E12000007,London,3,Driving a car or van,3,Aged 35 to 49 years,494742
+E12000007,London,3,Driving a car or van,4,Aged 50 to 64 years,327576
+E12000007,London,3,Driving a car or van,5,Aged 65 years and over,33960
+E12000007,London,4,Bicycle,1,Aged 16 to 24 years,12903
+E12000007,London,4,Bicycle,2,Aged 25 to 34 years,65020
+E12000007,London,4,Bicycle,3,Aged 35 to 49 years,60270
+E12000007,London,4,Bicycle,4,Aged 50 to 64 years,19196
+E12000007,London,4,Bicycle,5,Aged 65 years and over,1224
+E12000007,London,5,On foot,1,Aged 16 to 24 years,50548
+E12000007,London,5,On foot,2,Aged 25 to 34 years,101980
+E12000007,London,5,On foot,3,Aged 35 to 49 years,105290
+E12000007,London,5,On foot,4,Aged 50 to 64 years,65214
+E12000007,London,5,On foot,5,Aged 65 years and over,7387
+E12000007,London,6,All other methods of travel to work,1,Aged 16 to 24 years,22686
+E12000007,London,6,All other methods of travel to work,2,Aged 25 to 34 years,40911
+E12000007,London,6,All other methods of travel to work,3,Aged 35 to 49 years,59352
+E12000007,London,6,All other methods of travel to work,4,Aged 50 to 64 years,35008
+E12000007,London,6,All other methods of travel to work,5,Aged 65 years and over,5076
+E12000008,South East,1,Work mainly at or from home,1,Aged 16 to 24 years,24001
+E12000008,South East,1,Work mainly at or from home,2,Aged 25 to 34 years,65863
+E12000008,South East,1,Work mainly at or from home,3,Aged 35 to 49 years,195457
+E12000008,South East,1,Work mainly at or from home,4,Aged 50 to 64 years,176704
+E12000008,South East,1,Work mainly at or from home,5,Aged 65 years and over,40556
+E12000008,South East,2,Train underground metro light rail tram bus minibus or coach,1,Aged 16 to 24 years,76357
+E12000008,South East,2,Train underground metro light rail tram bus minibus or coach,2,Aged 25 to 34 years,92483
+E12000008,South East,2,Train underground metro light rail tram bus minibus or coach,3,Aged 35 to 49 years,96905
+E12000008,South East,2,Train underground metro light rail tram bus minibus or coach,4,Aged 50 to 64 years,62607
+E12000008,South East,2,Train underground metro light rail tram bus minibus or coach,5,Aged 65 years and over,7704
+E12000008,South East,3,Driving a car or van,1,Aged 16 to 24 years,226129
+E12000008,South East,3,Driving a car or van,2,Aged 25 to 34 years,499284
+E12000008,South East,3,Driving a car or van,3,Aged 35 to 49 years,954896
+E12000008,South East,3,Driving a car or van,4,Aged 50 to 64 years,673149
+E12000008,South East,3,Driving a car or van,5,Aged 65 years and over,73515
+E12000008,South East,4,Bicycle,1,Aged 16 to 24 years,17946
+E12000008,South East,4,Bicycle,2,Aged 25 to 34 years,29966
+E12000008,South East,4,Bicycle,3,Aged 35 to 49 years,45928
+E12000008,South East,4,Bicycle,4,Aged 50 to 64 years,25960
+E12000008,South East,4,Bicycle,5,Aged 65 years and over,2405
+E12000008,South East,5,On foot,1,Aged 16 to 24 years,101453
+E12000008,South East,5,On foot,2,Aged 25 to 34 years,98951
+E12000008,South East,5,On foot,3,Aged 35 to 49 years,120290
+E12000008,South East,5,On foot,4,Aged 50 to 64 years,85321
+E12000008,South East,5,On foot,5,Aged 65 years and over,10578
+E12000008,South East,6,All other methods of travel to work,1,Aged 16 to 24 years,77635
+E12000008,South East,6,All other methods of travel to work,2,Aged 25 to 34 years,55556
+E12000008,South East,6,All other methods of travel to work,3,Aged 35 to 49 years,65549
+E12000008,South East,6,All other methods of travel to work,4,Aged 50 to 64 years,52833
+E12000008,South East,6,All other methods of travel to work,5,Aged 65 years and over,7396
+E12000009,South West,1,Work mainly at or from home,1,Aged 16 to 24 years,17061
+E12000009,South West,1,Work mainly at or from home,2,Aged 25 to 34 years,38188
+E12000009,South West,1,Work mainly at or from home,3,Aged 35 to 49 years,116621
+E12000009,South West,1,Work mainly at or from home,4,Aged 50 to 64 years,122033
+E12000009,South West,1,Work mainly at or from home,5,Aged 65 years and over,29886
+E12000009,South West,2,Train underground metro light rail tram bus minibus or coach,1,Aged 16 to 24 years,38572
+E12000009,South West,2,Train underground metro light rail tram bus minibus or coach,2,Aged 25 to 34 years,36331
+E12000009,South West,2,Train underground metro light rail tram bus minibus or coach,3,Aged 35 to 49 years,40286
+E12000009,South West,2,Train underground metro light rail tram bus minibus or coach,4,Aged 50 to 64 years,32032
+E12000009,South West,2,Train underground metro light rail tram bus minibus or coach,5,Aged 65 years and over,4067
+E12000009,South West,3,Driving a car or van,1,Aged 16 to 24 years,145372
+E12000009,South West,3,Driving a car or van,2,Aged 25 to 34 years,291519
+E12000009,South West,3,Driving a car or van,3,Aged 35 to 49 years,576819
+E12000009,South West,3,Driving a car or van,4,Aged 50 to 64 years,426672
+E12000009,South West,3,Driving a car or van,5,Aged 65 years and over,45756
+E12000009,South West,4,Bicycle,1,Aged 16 to 24 years,11875
+E12000009,South West,4,Bicycle,2,Aged 25 to 34 years,21511
+E12000009,South West,4,Bicycle,3,Aged 35 to 49 years,34469
+E12000009,South West,4,Bicycle,4,Aged 50 to 64 years,17883
+E12000009,South West,4,Bicycle,5,Aged 65 years and over,1345
+E12000009,South West,5,On foot,1,Aged 16 to 24 years,75093
+E12000009,South West,5,On foot,2,Aged 25 to 34 years,71667
+E12000009,South West,5,On foot,3,Aged 35 to 49 years,89515
+E12000009,South West,5,On foot,4,Aged 50 to 64 years,67476
+E12000009,South West,5,On foot,5,Aged 65 years and over,8024
+E12000009,South West,6,All other methods of travel to work,1,Aged 16 to 24 years,49697
+E12000009,South West,6,All other methods of travel to work,2,Aged 25 to 34 years,35065
+E12000009,South West,6,All other methods of travel to work,3,Aged 35 to 49 years,45422
+E12000009,South West,6,All other methods of travel to work,4,Aged 50 to 64 years,38378
+E12000009,South West,6,All other methods of travel to work,5,Aged 65 years and over,4956
+W92000004,Wales,1,Work mainly at or from home,1,Aged 16 to 24 years,8217
+W92000004,Wales,1,Work mainly at or from home,2,Aged 25 to 34 years,17380
+W92000004,Wales,1,Work mainly at or from home,3,Aged 35 to 49 years,50659
+W92000004,Wales,1,Work mainly at or from home,4,Aged 50 to 64 years,52697
+W92000004,Wales,1,Work mainly at or from home,5,Aged 65 years and over,13225
+W92000004,Wales,2,Train underground metro light rail tram bus minibus or coach,1,Aged 16 to 24 years,21564
+W92000004,Wales,2,Train underground metro light rail tram bus minibus or coach,2,Aged 25 to 34 years,20295
+W92000004,Wales,2,Train underground metro light rail tram bus minibus or coach,3,Aged 35 to 49 years,22532
+W92000004,Wales,2,Train underground metro light rail tram bus minibus or coach,4,Aged 50 to 64 years,17861
+W92000004,Wales,2,Train underground metro light rail tram bus minibus or coach,5,Aged 65 years and over,2030
+W92000004,Wales,3,Driving a car or van,1,Aged 16 to 24 years,87179
+W92000004,Wales,3,Driving a car or van,2,Aged 25 to 34 years,176972
+W92000004,Wales,3,Driving a car or van,3,Aged 35 to 49 years,332626
+W92000004,Wales,3,Driving a car or van,4,Aged 50 to 64 years,230262
+W92000004,Wales,3,Driving a car or van,5,Aged 65 years and over,19740
+W92000004,Wales,4,Bicycle,1,Aged 16 to 24 years,2513
+W92000004,Wales,4,Bicycle,2,Aged 25 to 34 years,4901
+W92000004,Wales,4,Bicycle,3,Aged 35 to 49 years,7639
+W92000004,Wales,4,Bicycle,4,Aged 50 to 64 years,3646
+W92000004,Wales,4,Bicycle,5,Aged 65 years and over,231
+W92000004,Wales,5,On foot,1,Aged 16 to 24 years,30403
+W92000004,Wales,5,On foot,2,Aged 25 to 34 years,27778
+W92000004,Wales,5,On foot,3,Aged 35 to 49 years,37146
+W92000004,Wales,5,On foot,4,Aged 50 to 64 years,29278
+W92000004,Wales,5,On foot,5,Aged 65 years and over,3221
+W92000004,Wales,6,All other methods of travel to work,1,Aged 16 to 24 years,28407
+W92000004,Wales,6,All other methods of travel to work,2,Aged 25 to 34 years,22403
+W92000004,Wales,6,All other methods of travel to work,3,Aged 35 to 49 years,29028
+W92000004,Wales,6,All other methods of travel to work,4,Aged 50 to 64 years,24042
+W92000004,Wales,6,All other methods of travel to work,5,Aged 65 years and over,2489
