@@ -1,0 +1,401 @@
+Regions Code,Regions,Method Code,Method used to travel to workplace,Age Code,Age Range,Observation
+E12000001,North East,1,Work mainly at or from home,1,Aged 16 to 24 years,19904
+E12000001,North East,1,Work mainly at or from home,2,Aged 25 to 34 years,61264
+E12000001,North East,1,Work mainly at or from home,3,Aged 35 to 49 years,104325
+E12000001,North East,1,Work mainly at or from home,4,Aged 50 to 64 years,84101
+E12000001,North East,1,Work mainly at or from home,5,Aged 65 years and over,12578
+E12000001,North East,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",1,Aged 16 to 24 years,13672
+E12000001,North East,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",2,Aged 25 to 34 years,17025
+E12000001,North East,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",3,Aged 35 to 49 years,18528
+E12000001,North East,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",4,Aged 50 to 64 years,20052
+E12000001,North East,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",5,Aged 65 years and over,2771
+E12000001,North East,3,Taxi,1,Aged 16 to 24 years,2116
+E12000001,North East,3,Taxi,2,Aged 25 to 34 years,2800
+E12000001,North East,3,Taxi,3,Aged 35 to 49 years,3005
+E12000001,North East,3,Taxi,4,Aged 50 to 64 years,3456
+E12000001,North East,3,Taxi,5,Aged 65 years and over,496
+E12000001,North East,4,"Motorcycle, scooter or moped",1,Aged 16 to 24 years,406
+E12000001,North East,4,"Motorcycle, scooter or moped",2,Aged 25 to 34 years,587
+E12000001,North East,4,"Motorcycle, scooter or moped",3,Aged 35 to 49 years,749
+E12000001,North East,4,"Motorcycle, scooter or moped",4,Aged 50 to 64 years,956
+E12000001,North East,4,"Motorcycle, scooter or moped",5,Aged 65 years and over,64
+E12000001,North East,5,Driving a car or van,1,Aged 16 to 24 years,65980
+E12000001,North East,5,Driving a car or van,2,Aged 25 to 34 years,141187
+E12000001,North East,5,Driving a car or van,3,Aged 35 to 49 years,208872
+E12000001,North East,5,Driving a car or van,4,Aged 50 to 64 years,211942
+E12000001,North East,5,Driving a car or van,5,Aged 65 years and over,22562
+E12000001,North East,6,Bicycle,1,Aged 16 to 24 years,1996
+E12000001,North East,6,Bicycle,2,Aged 25 to 34 years,3537
+E12000001,North East,6,Bicycle,3,Aged 35 to 49 years,5256
+E12000001,North East,6,Bicycle,4,Aged 50 to 64 years,4914
+E12000001,North East,6,Bicycle,5,Aged 65 years and over,388
+E12000001,North East,7,On foot,1,Aged 16 to 24 years,14254
+E12000001,North East,7,On foot,2,Aged 25 to 34 years,18700
+E12000001,North East,7,On foot,3,Aged 35 to 49 years,24280
+E12000001,North East,7,On foot,4,Aged 50 to 64 years,27286
+E12000001,North East,7,On foot,5,Aged 65 years and over,3571
+E12000001,North East,8,Other method of travel to work,1,Aged 16 to 24 years,1671
+E12000001,North East,8,Other method of travel to work,2,Aged 25 to 34 years,2890
+E12000001,North East,8,Other method of travel to work,3,Aged 35 to 49 years,4716
+E12000001,North East,8,Other method of travel to work,4,Aged 50 to 64 years,4418
+E12000001,North East,8,Other method of travel to work,5,Aged 65 years and over,781
+E12000002,North West,1,Work mainly at or from home,1,Aged 16 to 24 years,63943
+E12000002,North West,1,Work mainly at or from home,2,Aged 25 to 34 years,213569
+E12000002,North West,1,Work mainly at or from home,3,Aged 35 to 49 years,330570
+E12000002,North West,1,Work mainly at or from home,4,Aged 50 to 64 years,264979
+E12000002,North West,1,Work mainly at or from home,5,Aged 65 years and over,40768
+E12000002,North West,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",1,Aged 16 to 24 years,44315
+E12000002,North West,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",2,Aged 25 to 34 years,53992
+E12000002,North West,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",3,Aged 35 to 49 years,51954
+E12000002,North West,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",4,Aged 50 to 64 years,44889
+E12000002,North West,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",5,Aged 65 years and over,6910
+E12000002,North West,3,Taxi,1,Aged 16 to 24 years,8133
+E12000002,North West,3,Taxi,2,Aged 25 to 34 years,10243
+E12000002,North West,3,Taxi,3,Aged 35 to 49 years,9914
+E12000002,North West,3,Taxi,4,Aged 50 to 64 years,9037
+E12000002,North West,3,Taxi,5,Aged 65 years and over,1529
+E12000002,North West,4,"Motorcycle, scooter or moped",1,Aged 16 to 24 years,1851
+E12000002,North West,4,"Motorcycle, scooter or moped",2,Aged 25 to 34 years,2527
+E12000002,North West,4,"Motorcycle, scooter or moped",3,Aged 35 to 49 years,3010
+E12000002,North West,4,"Motorcycle, scooter or moped",4,Aged 50 to 64 years,3539
+E12000002,North West,4,"Motorcycle, scooter or moped",5,Aged 65 years and over,259
+E12000002,North West,5,Driving a car or van,1,Aged 16 to 24 years,180717
+E12000002,North West,5,Driving a car or van,2,Aged 25 to 34 years,399190
+E12000002,North West,5,Driving a car or van,3,Aged 35 to 49 years,596045
+E12000002,North West,5,Driving a car or van,4,Aged 50 to 64 years,571196
+E12000002,North West,5,Driving a car or van,5,Aged 65 years and over,68641
+E12000002,North West,6,Bicycle,1,Aged 16 to 24 years,8104
+E12000002,North West,6,Bicycle,2,Aged 25 to 34 years,13797
+E12000002,North West,6,Bicycle,3,Aged 35 to 49 years,18509
+E12000002,North West,6,Bicycle,4,Aged 50 to 64 years,15846
+E12000002,North West,6,Bicycle,5,Aged 65 years and over,1368
+E12000002,North West,7,On foot,1,Aged 16 to 24 years,48752
+E12000002,North West,7,On foot,2,Aged 25 to 34 years,65106
+E12000002,North West,7,On foot,3,Aged 35 to 49 years,73682
+E12000002,North West,7,On foot,4,Aged 50 to 64 years,70548
+E12000002,North West,7,On foot,5,Aged 65 years and over,9703
+E12000002,North West,8,Other method of travel to work,1,Aged 16 to 24 years,4818
+E12000002,North West,8,Other method of travel to work,2,Aged 25 to 34 years,7393
+E12000002,North West,8,Other method of travel to work,3,Aged 35 to 49 years,10511
+E12000002,North West,8,Other method of travel to work,4,Aged 50 to 64 years,9765
+E12000002,North West,8,Other method of travel to work,5,Aged 65 years and over,2121
+E12000003,Yorkshire and The Humber,1,Work mainly at or from home,1,Aged 16 to 24 years,44386
+E12000003,Yorkshire and The Humber,1,Work mainly at or from home,2,Aged 25 to 34 years,143363
+E12000003,Yorkshire and The Humber,1,Work mainly at or from home,3,Aged 35 to 49 years,232428
+E12000003,Yorkshire and The Humber,1,Work mainly at or from home,4,Aged 50 to 64 years,187125
+E12000003,Yorkshire and The Humber,1,Work mainly at or from home,5,Aged 65 years and over,30068
+E12000003,Yorkshire and The Humber,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",1,Aged 16 to 24 years,29557
+E12000003,Yorkshire and The Humber,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",2,Aged 25 to 34 years,33781
+E12000003,Yorkshire and The Humber,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",3,Aged 35 to 49 years,34351
+E12000003,Yorkshire and The Humber,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",4,Aged 50 to 64 years,32439
+E12000003,Yorkshire and The Humber,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",5,Aged 65 years and over,4547
+E12000003,Yorkshire and The Humber,3,Taxi,1,Aged 16 to 24 years,6244
+E12000003,Yorkshire and The Humber,3,Taxi,2,Aged 25 to 34 years,7689
+E12000003,Yorkshire and The Humber,3,Taxi,3,Aged 35 to 49 years,7474
+E12000003,Yorkshire and The Humber,3,Taxi,4,Aged 50 to 64 years,5835
+E12000003,Yorkshire and The Humber,3,Taxi,5,Aged 65 years and over,785
+E12000003,Yorkshire and The Humber,4,"Motorcycle, scooter or moped",1,Aged 16 to 24 years,1726
+E12000003,Yorkshire and The Humber,4,"Motorcycle, scooter or moped",2,Aged 25 to 34 years,1776
+E12000003,Yorkshire and The Humber,4,"Motorcycle, scooter or moped",3,Aged 35 to 49 years,2239
+E12000003,Yorkshire and The Humber,4,"Motorcycle, scooter or moped",4,Aged 50 to 64 years,2789
+E12000003,Yorkshire and The Humber,4,"Motorcycle, scooter or moped",5,Aged 65 years and over,248
+E12000003,Yorkshire and The Humber,5,Driving a car or van,1,Aged 16 to 24 years,143380
+E12000003,Yorkshire and The Humber,5,Driving a car or van,2,Aged 25 to 34 years,306755
+E12000003,Yorkshire and The Humber,5,Driving a car or van,3,Aged 35 to 49 years,445580
+E12000003,Yorkshire and The Humber,5,Driving a car or van,4,Aged 50 to 64 years,430706
+E12000003,Yorkshire and The Humber,5,Driving a car or van,5,Aged 65 years and over,49020
+E12000003,Yorkshire and The Humber,6,Bicycle,1,Aged 16 to 24 years,6476
+E12000003,Yorkshire and The Humber,6,Bicycle,2,Aged 25 to 34 years,10728
+E12000003,Yorkshire and The Humber,6,Bicycle,3,Aged 35 to 49 years,15265
+E12000003,Yorkshire and The Humber,6,Bicycle,4,Aged 50 to 64 years,14068
+E12000003,Yorkshire and The Humber,6,Bicycle,5,Aged 65 years and over,1223
+E12000003,Yorkshire and The Humber,7,On foot,1,Aged 16 to 24 years,37686
+E12000003,Yorkshire and The Humber,7,On foot,2,Aged 25 to 34 years,47285
+E12000003,Yorkshire and The Humber,7,On foot,3,Aged 35 to 49 years,56867
+E12000003,Yorkshire and The Humber,7,On foot,4,Aged 50 to 64 years,55787
+E12000003,Yorkshire and The Humber,7,On foot,5,Aged 65 years and over,7018
+E12000003,Yorkshire and The Humber,8,Other method of travel to work,1,Aged 16 to 24 years,3818
+E12000003,Yorkshire and The Humber,8,Other method of travel to work,2,Aged 25 to 34 years,5196
+E12000003,Yorkshire and The Humber,8,Other method of travel to work,3,Aged 35 to 49 years,7525
+E12000003,Yorkshire and The Humber,8,Other method of travel to work,4,Aged 50 to 64 years,6762
+E12000003,Yorkshire and The Humber,8,Other method of travel to work,5,Aged 65 years and over,1375
+E12000004,East Midlands,1,Work mainly at or from home,1,Aged 16 to 24 years,36520
+E12000004,East Midlands,1,Work mainly at or from home,2,Aged 25 to 34 years,122422
+E12000004,East Midlands,1,Work mainly at or from home,3,Aged 35 to 49 years,213092
+E12000004,East Midlands,1,Work mainly at or from home,4,Aged 50 to 64 years,183185
+E12000004,East Midlands,1,Work mainly at or from home,5,Aged 65 years and over,30804
+E12000004,East Midlands,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",1,Aged 16 to 24 years,19429
+E12000004,East Midlands,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",2,Aged 25 to 34 years,22539
+E12000004,East Midlands,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",3,Aged 35 to 49 years,23899
+E12000004,East Midlands,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",4,Aged 50 to 64 years,20759
+E12000004,East Midlands,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",5,Aged 65 years and over,3015
+E12000004,East Midlands,3,Taxi,1,Aged 16 to 24 years,3365
+E12000004,East Midlands,3,Taxi,2,Aged 25 to 34 years,4074
+E12000004,East Midlands,3,Taxi,3,Aged 35 to 49 years,4149
+E12000004,East Midlands,3,Taxi,4,Aged 50 to 64 years,3462
+E12000004,East Midlands,3,Taxi,5,Aged 65 years and over,557
+E12000004,East Midlands,4,"Motorcycle, scooter or moped",1,Aged 16 to 24 years,1901
+E12000004,East Midlands,4,"Motorcycle, scooter or moped",2,Aged 25 to 34 years,2023
+E12000004,East Midlands,4,"Motorcycle, scooter or moped",3,Aged 35 to 49 years,2229
+E12000004,East Midlands,4,"Motorcycle, scooter or moped",4,Aged 50 to 64 years,2557
+E12000004,East Midlands,4,"Motorcycle, scooter or moped",5,Aged 65 years and over,222
+E12000004,East Midlands,5,Driving a car or van,1,Aged 16 to 24 years,140750
+E12000004,East Midlands,5,Driving a car or van,2,Aged 25 to 34 years,291886
+E12000004,East Midlands,5,Driving a car or van,3,Aged 35 to 49 years,430919
+E12000004,East Midlands,5,Driving a car or van,4,Aged 50 to 64 years,410951
+E12000004,East Midlands,5,Driving a car or van,5,Aged 65 years and over,48706
+E12000004,East Midlands,6,Bicycle,1,Aged 16 to 24 years,6243
+E12000004,East Midlands,6,Bicycle,2,Aged 25 to 34 years,9888
+E12000004,East Midlands,6,Bicycle,3,Aged 35 to 49 years,14493
+E12000004,East Midlands,6,Bicycle,4,Aged 50 to 64 years,12856
+E12000004,East Midlands,6,Bicycle,5,Aged 65 years and over,1236
+E12000004,East Midlands,7,On foot,1,Aged 16 to 24 years,34858
+E12000004,East Midlands,7,On foot,2,Aged 25 to 34 years,41463
+E12000004,East Midlands,7,On foot,3,Aged 35 to 49 years,51148
+E12000004,East Midlands,7,On foot,4,Aged 50 to 64 years,48469
+E12000004,East Midlands,7,On foot,5,Aged 65 years and over,6687
+E12000004,East Midlands,8,Other method of travel to work,1,Aged 16 to 24 years,3272
+E12000004,East Midlands,8,Other method of travel to work,2,Aged 25 to 34 years,4709
+E12000004,East Midlands,8,Other method of travel to work,3,Aged 35 to 49 years,6319
+E12000004,East Midlands,8,Other method of travel to work,4,Aged 50 to 64 years,5937
+E12000004,East Midlands,8,Other method of travel to work,5,Aged 65 years and over,1329
+E12000005,West Midlands,1,Work mainly at or from home,1,Aged 16 to 24 years,45895
+E12000005,West Midlands,1,Work mainly at or from home,2,Aged 25 to 34 years,148639
+E12000005,West Midlands,1,Work mainly at or from home,3,Aged 35 to 49 years,243438
+E12000005,West Midlands,1,Work mainly at or from home,4,Aged 50 to 64 years,202341
+E12000005,West Midlands,1,Work mainly at or from home,5,Aged 65 years and over,36623
+E12000005,West Midlands,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",1,Aged 16 to 24 years,28693
+E12000005,West Midlands,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",2,Aged 25 to 34 years,35799
+E12000005,West Midlands,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",3,Aged 35 to 49 years,39833
+E12000005,West Midlands,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",4,Aged 50 to 64 years,34044
+E12000005,West Midlands,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",5,Aged 65 years and over,5039
+E12000005,West Midlands,3,Taxi,1,Aged 16 to 24 years,7152
+E12000005,West Midlands,3,Taxi,2,Aged 25 to 34 years,8410
+E12000005,West Midlands,3,Taxi,3,Aged 35 to 49 years,7787
+E12000005,West Midlands,3,Taxi,4,Aged 50 to 64 years,5742
+E12000005,West Midlands,3,Taxi,5,Aged 65 years and over,841
+E12000005,West Midlands,4,"Motorcycle, scooter or moped",1,Aged 16 to 24 years,1745
+E12000005,West Midlands,4,"Motorcycle, scooter or moped",2,Aged 25 to 34 years,2129
+E12000005,West Midlands,4,"Motorcycle, scooter or moped",3,Aged 35 to 49 years,2345
+E12000005,West Midlands,4,"Motorcycle, scooter or moped",4,Aged 50 to 64 years,2630
+E12000005,West Midlands,4,"Motorcycle, scooter or moped",5,Aged 65 years and over,244
+E12000005,West Midlands,5,Driving a car or van,1,Aged 16 to 24 years,156228
+E12000005,West Midlands,5,Driving a car or van,2,Aged 25 to 34 years,339245
+E12000005,West Midlands,5,Driving a car or van,3,Aged 35 to 49 years,501560
+E12000005,West Midlands,5,Driving a car or van,4,Aged 50 to 64 years,473162
+E12000005,West Midlands,5,Driving a car or van,5,Aged 65 years and over,59721
+E12000005,West Midlands,6,Bicycle,1,Aged 16 to 24 years,5314
+E12000005,West Midlands,6,Bicycle,2,Aged 25 to 34 years,8475
+E12000005,West Midlands,6,Bicycle,3,Aged 35 to 49 years,12582
+E12000005,West Midlands,6,Bicycle,4,Aged 50 to 64 years,10971
+E12000005,West Midlands,6,Bicycle,5,Aged 65 years and over,1094
+E12000005,West Midlands,7,On foot,1,Aged 16 to 24 years,32610
+E12000005,West Midlands,7,On foot,2,Aged 25 to 34 years,42503
+E12000005,West Midlands,7,On foot,3,Aged 35 to 49 years,53172
+E12000005,West Midlands,7,On foot,4,Aged 50 to 64 years,50228
+E12000005,West Midlands,7,On foot,5,Aged 65 years and over,7400
+E12000005,West Midlands,8,Other method of travel to work,1,Aged 16 to 24 years,3763
+E12000005,West Midlands,8,Other method of travel to work,2,Aged 25 to 34 years,5585
+E12000005,West Midlands,8,Other method of travel to work,3,Aged 35 to 49 years,7719
+E12000005,West Midlands,8,Other method of travel to work,4,Aged 50 to 64 years,6624
+E12000005,West Midlands,8,Other method of travel to work,5,Aged 65 years and over,1565
+E12000006,East,1,Work mainly at or from home,1,Aged 16 to 24 years,58907
+E12000006,East,1,Work mainly at or from home,2,Aged 25 to 34 years,203578
+E12000006,East,1,Work mainly at or from home,3,Aged 35 to 49 years,362413
+E12000006,East,1,Work mainly at or from home,4,Aged 50 to 64 years,288169
+E12000006,East,1,Work mainly at or from home,5,Aged 65 years and over,53420
+E12000006,East,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",1,Aged 16 to 24 years,24797
+E12000006,East,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",2,Aged 25 to 34 years,40069
+E12000006,East,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",3,Aged 35 to 49 years,48622
+E12000006,East,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",4,Aged 50 to 64 years,32177
+E12000006,East,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",5,Aged 65 years and over,4587
+E12000006,East,3,Taxi,1,Aged 16 to 24 years,3293
+E12000006,East,3,Taxi,2,Aged 25 to 34 years,4078
+E12000006,East,3,Taxi,3,Aged 35 to 49 years,4530
+E12000006,East,3,Taxi,4,Aged 50 to 64 years,4152
+E12000006,East,3,Taxi,5,Aged 65 years and over,883
+E12000006,East,4,"Motorcycle, scooter or moped",1,Aged 16 to 24 years,2894
+E12000006,East,4,"Motorcycle, scooter or moped",2,Aged 25 to 34 years,3067
+E12000006,East,4,"Motorcycle, scooter or moped",3,Aged 35 to 49 years,3645
+E12000006,East,4,"Motorcycle, scooter or moped",4,Aged 50 to 64 years,3683
+E12000006,East,4,"Motorcycle, scooter or moped",5,Aged 65 years and over,343
+E12000006,East,5,Driving a car or van,1,Aged 16 to 24 years,164770
+E12000006,East,5,Driving a car or van,2,Aged 25 to 34 years,336541
+E12000006,East,5,Driving a car or van,3,Aged 35 to 49 years,509897
+E12000006,East,5,Driving a car or van,4,Aged 50 to 64 years,481764
+E12000006,East,5,Driving a car or van,5,Aged 65 years and over,66845
+E12000006,East,6,Bicycle,1,Aged 16 to 24 years,10262
+E12000006,East,6,Bicycle,2,Aged 25 to 34 years,16628
+E12000006,East,6,Bicycle,3,Aged 35 to 49 years,22673
+E12000006,East,6,Bicycle,4,Aged 50 to 64 years,18909
+E12000006,East,6,Bicycle,5,Aged 65 years and over,2385
+E12000006,East,7,On foot,1,Aged 16 to 24 years,40404
+E12000006,East,7,On foot,2,Aged 25 to 34 years,51880
+E12000006,East,7,On foot,3,Aged 35 to 49 years,64010
+E12000006,East,7,On foot,4,Aged 50 to 64 years,55121
+E12000006,East,7,On foot,5,Aged 65 years and over,8311
+E12000006,East,8,Other method of travel to work,1,Aged 16 to 24 years,4288
+E12000006,East,8,Other method of travel to work,2,Aged 25 to 34 years,6363
+E12000006,East,8,Other method of travel to work,3,Aged 35 to 49 years,9167
+E12000006,East,8,Other method of travel to work,4,Aged 50 to 64 years,9008
+E12000006,East,8,Other method of travel to work,5,Aged 65 years and over,2110
+E12000007,London,1,Work mainly at or from home,1,Aged 16 to 24 years,123497
+E12000007,London,1,Work mainly at or from home,2,Aged 25 to 34 years,618541
+E12000007,London,1,Work mainly at or from home,3,Aged 35 to 49 years,675349
+E12000007,London,1,Work mainly at or from home,4,Aged 50 to 64 years,356887
+E12000007,London,1,Work mainly at or from home,5,Aged 65 years and over,62547
+E12000007,London,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",1,Aged 16 to 24 years,133287
+E12000007,London,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",2,Aged 25 to 34 years,306316
+E12000007,London,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",3,Aged 35 to 49 years,351467
+E12000007,London,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",4,Aged 50 to 64 years,228462
+E12000007,London,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",5,Aged 65 years and over,29453
+E12000007,London,3,Taxi,1,Aged 16 to 24 years,2146
+E12000007,London,3,Taxi,2,Aged 25 to 34 years,5690
+E12000007,London,3,Taxi,3,Aged 35 to 49 years,7302
+E12000007,London,3,Taxi,4,Aged 50 to 64 years,6132
+E12000007,London,3,Taxi,5,Aged 65 years and over,1273
+E12000007,London,4,"Motorcycle, scooter or moped",1,Aged 16 to 24 years,2964
+E12000007,London,4,"Motorcycle, scooter or moped",2,Aged 25 to 34 years,8771
+E12000007,London,4,"Motorcycle, scooter or moped",3,Aged 35 to 49 years,12087
+E12000007,London,4,"Motorcycle, scooter or moped",4,Aged 50 to 64 years,6165
+E12000007,London,4,"Motorcycle, scooter or moped",5,Aged 65 years and over,417
+E12000007,London,5,Driving a car or van,1,Aged 16 to 24 years,68300
+E12000007,London,5,Driving a car or van,2,Aged 25 to 34 years,205599
+E12000007,London,5,Driving a car or van,3,Aged 35 to 49 years,351662
+E12000007,London,5,Driving a car or van,4,Aged 50 to 64 years,294434
+E12000007,London,5,Driving a car or van,5,Aged 65 years and over,41001
+E12000007,London,6,Bicycle,1,Aged 16 to 24 years,10804
+E12000007,London,6,Bicycle,2,Aged 25 to 34 years,45211
+E12000007,London,6,Bicycle,3,Aged 35 to 49 years,46855
+E12000007,London,6,Bicycle,4,Aged 50 to 64 years,24229
+E12000007,London,6,Bicycle,5,Aged 65 years and over,1734
+E12000007,London,7,On foot,1,Aged 16 to 24 years,35184
+E12000007,London,7,On foot,2,Aged 25 to 34 years,74368
+E12000007,London,7,On foot,3,Aged 35 to 49 years,91849
+E12000007,London,7,On foot,4,Aged 50 to 64 years,68708
+E12000007,London,7,On foot,5,Aged 65 years and over,9344
+E12000007,London,8,Other method of travel to work,1,Aged 16 to 24 years,4766
+E12000007,London,8,Other method of travel to work,2,Aged 25 to 34 years,12428
+E12000007,London,8,Other method of travel to work,3,Aged 35 to 49 years,18063
+E12000007,London,8,Other method of travel to work,4,Aged 50 to 64 years,13937
+E12000007,London,8,Other method of travel to work,5,Aged 65 years and over,2846
+E12000008,South East,1,Work mainly at or from home,1,Aged 16 to 24 years,87981
+E12000008,South East,1,Work mainly at or from home,2,Aged 25 to 34 years,313869
+E12000008,South East,1,Work mainly at or from home,3,Aged 35 to 49 years,617512
+E12000008,South East,1,Work mainly at or from home,4,Aged 50 to 64 years,494734
+E12000008,South East,1,Work mainly at or from home,5,Aged 65 years and over,88983
+E12000008,South East,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",1,Aged 16 to 24 years,39749
+E12000008,South East,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",2,Aged 25 to 34 years,57525
+E12000008,South East,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",3,Aged 35 to 49 years,68611
+E12000008,South East,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",4,Aged 50 to 64 years,47555
+E12000008,South East,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",5,Aged 65 years and over,7131
+E12000008,South East,3,Taxi,1,Aged 16 to 24 years,3892
+E12000008,South East,3,Taxi,2,Aged 25 to 34 years,4975
+E12000008,South East,3,Taxi,3,Aged 35 to 49 years,5787
+E12000008,South East,3,Taxi,4,Aged 50 to 64 years,5033
+E12000008,South East,3,Taxi,5,Aged 65 years and over,1167
+E12000008,South East,4,"Motorcycle, scooter or moped",1,Aged 16 to 24 years,4043
+E12000008,South East,4,"Motorcycle, scooter or moped",2,Aged 25 to 34 years,5082
+E12000008,South East,4,"Motorcycle, scooter or moped",3,Aged 35 to 49 years,6196
+E12000008,South East,4,"Motorcycle, scooter or moped",4,Aged 50 to 64 years,6317
+E12000008,South East,4,"Motorcycle, scooter or moped",5,Aged 65 years and over,588
+E12000008,South East,5,Driving a car or van,1,Aged 16 to 24 years,223883
+E12000008,South East,5,Driving a car or van,2,Aged 25 to 34 years,453053
+E12000008,South East,5,Driving a car or van,3,Aged 35 to 49 years,697295
+E12000008,South East,5,Driving a car or van,4,Aged 50 to 64 years,663279
+E12000008,South East,5,Driving a car or van,5,Aged 65 years and over,95590
+E12000008,South East,6,Bicycle,1,Aged 16 to 24 years,12590
+E12000008,South East,6,Bicycle,2,Aged 25 to 34 years,19601
+E12000008,South East,6,Bicycle,3,Aged 35 to 49 years,28042
+E12000008,South East,6,Bicycle,4,Aged 50 to 64 years,23728
+E12000008,South East,6,Bicycle,5,Aged 65 years and over,2505
+E12000008,South East,7,On foot,1,Aged 16 to 24 years,67119
+E12000008,South East,7,On foot,2,Aged 25 to 34 years,81408
+E12000008,South East,7,On foot,3,Aged 35 to 49 years,96234
+E12000008,South East,7,On foot,4,Aged 50 to 64 years,83627
+E12000008,South East,7,On foot,5,Aged 65 years and over,12349
+E12000008,South East,8,Other method of travel to work,1,Aged 16 to 24 years,6735
+E12000008,South East,8,Other method of travel to work,2,Aged 25 to 34 years,9391
+E12000008,South East,8,Other method of travel to work,3,Aged 35 to 49 years,13010
+E12000008,South East,8,Other method of travel to work,4,Aged 50 to 64 years,12622
+E12000008,South East,8,Other method of travel to work,5,Aged 65 years and over,2984
+E12000009,South West,1,Work mainly at or from home,1,Aged 16 to 24 years,48375
+E12000009,South West,1,Work mainly at or from home,2,Aged 25 to 34 years,162347
+E12000009,South West,1,Work mainly at or from home,3,Aged 35 to 49 years,287374
+E12000009,South West,1,Work mainly at or from home,4,Aged 50 to 64 years,263691
+E12000009,South West,1,Work mainly at or from home,5,Aged 65 years and over,56744
+E12000009,South West,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",1,Aged 16 to 24 years,22168
+E12000009,South West,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",2,Aged 25 to 34 years,23508
+E12000009,South West,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",3,Aged 35 to 49 years,22141
+E12000009,South West,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",4,Aged 50 to 64 years,19094
+E12000009,South West,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",5,Aged 65 years and over,3605
+E12000009,South West,3,Taxi,1,Aged 16 to 24 years,1239
+E12000009,South West,3,Taxi,2,Aged 25 to 34 years,1723
+E12000009,South West,3,Taxi,3,Aged 35 to 49 years,2302
+E12000009,South West,3,Taxi,4,Aged 50 to 64 years,2376
+E12000009,South West,3,Taxi,5,Aged 65 years and over,617
+E12000009,South West,4,"Motorcycle, scooter or moped",1,Aged 16 to 24 years,3521
+E12000009,South West,4,"Motorcycle, scooter or moped",2,Aged 25 to 34 years,3713
+E12000009,South West,4,"Motorcycle, scooter or moped",3,Aged 35 to 49 years,4226
+E12000009,South West,4,"Motorcycle, scooter or moped",4,Aged 50 to 64 years,5202
+E12000009,South West,4,"Motorcycle, scooter or moped",5,Aged 65 years and over,532
+E12000009,South West,5,Driving a car or van,1,Aged 16 to 24 years,153088
+E12000009,South West,5,Driving a car or van,2,Aged 25 to 34 years,299859
+E12000009,South West,5,Driving a car or van,3,Aged 35 to 49 years,448244
+E12000009,South West,5,Driving a car or van,4,Aged 50 to 64 years,453940
+E12000009,South West,5,Driving a car or van,5,Aged 65 years and over,65403
+E12000009,South West,6,Bicycle,1,Aged 16 to 24 years,8293
+E12000009,South West,6,Bicycle,2,Aged 25 to 34 years,14818
+E12000009,South West,6,Bicycle,3,Aged 35 to 49 years,20988
+E12000009,South West,6,Bicycle,4,Aged 50 to 64 years,17519
+E12000009,South West,6,Bicycle,5,Aged 65 years and over,1810
+E12000009,South West,7,On foot,1,Aged 16 to 24 years,47727
+E12000009,South West,7,On foot,2,Aged 25 to 34 years,58360
+E12000009,South West,7,On foot,3,Aged 35 to 49 years,67446
+E12000009,South West,7,On foot,4,Aged 50 to 64 years,64263
+E12000009,South West,7,On foot,5,Aged 65 years and over,10207
+E12000009,South West,8,Other method of travel to work,1,Aged 16 to 24 years,4005
+E12000009,South West,8,Other method of travel to work,2,Aged 25 to 34 years,5492
+E12000009,South West,8,Other method of travel to work,3,Aged 35 to 49 years,6847
+E12000009,South West,8,Other method of travel to work,4,Aged 50 to 64 years,7579
+E12000009,South West,8,Other method of travel to work,5,Aged 65 years and over,1948
+W92000004,Wales,1,Work mainly at or from home,1,Aged 16 to 24 years,20549
+W92000004,Wales,1,Work mainly at or from home,2,Aged 25 to 34 years,72180
+W92000004,Wales,1,Work mainly at or from home,3,Aged 35 to 49 years,124152
+W92000004,Wales,1,Work mainly at or from home,4,Aged 50 to 64 years,109640
+W92000004,Wales,1,Work mainly at or from home,5,Aged 65 years and over,23949
+W92000004,Wales,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",1,Aged 16 to 24 years,8582
+W92000004,Wales,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",2,Aged 25 to 34 years,10668
+W92000004,Wales,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",3,Aged 35 to 49 years,10875
+W92000004,Wales,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",4,Aged 50 to 64 years,11174
+W92000004,Wales,2,"Underground, metro, light rail, tram, train, bus, minibus or coach",5,Aged 65 years and over,2305
+W92000004,Wales,3,Taxi,1,Aged 16 to 24 years,1216
+W92000004,Wales,3,Taxi,2,Aged 25 to 34 years,1751
+W92000004,Wales,3,Taxi,3,Aged 35 to 49 years,2004
+W92000004,Wales,3,Taxi,4,Aged 50 to 64 years,2189
+W92000004,Wales,3,Taxi,5,Aged 65 years and over,446
+W92000004,Wales,4,"Motorcycle, scooter or moped",1,Aged 16 to 24 years,809
+W92000004,Wales,4,"Motorcycle, scooter or moped",2,Aged 25 to 34 years,1040
+W92000004,Wales,4,"Motorcycle, scooter or moped",3,Aged 35 to 49 years,1239
+W92000004,Wales,4,"Motorcycle, scooter or moped",4,Aged 50 to 64 years,1431
+W92000004,Wales,4,"Motorcycle, scooter or moped",5,Aged 65 years and over,123
+W92000004,Wales,5,Driving a car or van,1,Aged 16 to 24 years,90161
+W92000004,Wales,5,Driving a car or van,2,Aged 25 to 34 years,183054
+W92000004,Wales,5,Driving a car or van,3,Aged 35 to 49 years,264782
+W92000004,Wales,5,Driving a car or van,4,Aged 50 to 64 years,265915
+W92000004,Wales,5,Driving a car or van,5,Aged 65 years and over,34757
+W92000004,Wales,6,Bicycle,1,Aged 16 to 24 years,2174
+W92000004,Wales,6,Bicycle,2,Aged 25 to 34 years,3598
+W92000004,Wales,6,Bicycle,3,Aged 35 to 49 years,4845
+W92000004,Wales,6,Bicycle,4,Aged 50 to 64 years,4052
+W92000004,Wales,6,Bicycle,5,Aged 65 years and over,412
+W92000004,Wales,7,On foot,1,Aged 16 to 24 years,17913
+W92000004,Wales,7,On foot,2,Aged 25 to 34 years,21836
+W92000004,Wales,7,On foot,3,Aged 35 to 49 years,25555
+W92000004,Wales,7,On foot,4,Aged 50 to 64 years,26677
+W92000004,Wales,7,On foot,5,Aged 65 years and over,4695
+W92000004,Wales,8,Other method of travel to work,1,Aged 16 to 24 years,1731
+W92000004,Wales,8,Other method of travel to work,2,Aged 25 to 34 years,2398
+W92000004,Wales,8,Other method of travel to work,3,Aged 35 to 49 years,3289
+W92000004,Wales,8,Other method of travel to work,4,Aged 50 to 64 years,3354
+W92000004,Wales,8,Other method of travel to work,5,Aged 65 years and over,932
